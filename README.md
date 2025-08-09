@@ -40,10 +40,16 @@ input("what's your name")
 [<span style="color:blue;"> <u>markdown.org</u></span>](https://www.markdownguide.org/)
 
 my name is ~~Laban~~ Kevin
+
 my school ==moringa school==
+
 H<sub>2</sub>O
+
 24<sup>2</sup>
+
 ![image of a cat](google.png)
+
+
 > A sufficiently working technology is indistinguishable from magic
 >
 
