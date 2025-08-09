@@ -55,8 +55,7 @@ H<sub>2</sub>O
 >
 
 
-
-
+if this paragraph appears in my git hub account it means i successfully changed the need for username and password every time i use git push.
 
 
 
